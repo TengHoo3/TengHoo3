@@ -5,7 +5,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 <h3> What do I currently do? </h3>
 
 💻 I am currently an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
-
+<br>
 
 <h3> Technology Stack </h3>
 
@@ -20,7 +20,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 
 <table>
   <tr>
-      <td><img width="380px" align="left" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td>            
+      <td><img width="450px" align="center" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td>            
   </tr>   
 </table>
 
