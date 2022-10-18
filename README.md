@@ -23,6 +23,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
       <td><img width="380px" align="left" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td>            
   </tr>   
 </table>
+
 - GANs for image denoising and synthetic image generation
 - ML deployment on cloud services (AWS) using Fast and Flask API
 - Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients
