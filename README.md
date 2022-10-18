@@ -5,7 +5,8 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 <h3> What do I currently do? </h3>
 
 💻 I am currently an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
-<br>
+
+<br><br>
 
 <h3> Technology Stack </h3>
 
@@ -15,10 +16,11 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 - 🌱 I’m currently learning more on different areas of Deep Learning
 - 💞️ I’m looking to collaborate on data science and all things data
 
+<br><br>
 
 <h3> Upwork </h3>
 
-<table>
+<table align="center">
   <tr>
       <td><img width="450px" align="center" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td>            
   </tr>   
@@ -28,6 +30,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 - ML deployment on cloud services (AWS) using Fast and Flask API
 - Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients
 
+<br><br>
 
 <h3> My Github Stats </h3>
 <table align="center">
