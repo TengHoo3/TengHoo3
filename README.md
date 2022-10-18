@@ -19,7 +19,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 
 
 <h3> My Stats </h3>
-![Teng's GitHub stats](https://github-readme-stats.vercel.app/api?username=TengHoo3)
+[![Teng's GitHub stats](https://github-readme-stats.vercel.app/api?username=TengHoo3)]
 
 
 <!---
