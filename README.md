@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TengHoo3
 - ✨ I am a Computer Vision and Deep Learning Expert
-- 👀 I’m interested in machine and deep learning
+- 👀 I’m interested in Deep Learning and Data Science
 - 🌱 I’m currently learning more on different areas of Deep Learning
 - 💞️ I’m looking to collaborate on data science and all things data
 
