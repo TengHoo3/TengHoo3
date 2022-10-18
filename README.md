@@ -1,4 +1,6 @@
-<h1> Hi, I’m @TengHoo3 </h1>
+<h1 align='center'> Teng Hoo </h1>
+
+Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming from a non-technical background with specific focus in Computer Vision and Data Science. I believe my experiences outside of the machine learning world are what brings the most value to machine learning. See below for more about me!
 
 - ✨ I am a Computer Vision and Deep Learning Expert
 - 👀 I’m interested in Deep Learning and Data Science
