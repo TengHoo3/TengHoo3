@@ -33,6 +33,8 @@ Hi there! I am an AI/ML Engineer coming from a non-technical background with spe
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="50" height="50"/> </a>  
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50" height="50"/> </a>  
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="50" height="50"/> </a> 
+<a href="https://bitbucket.org/product" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" alt="bitbucket" width="50" height="50"/> </a> 
   <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="50" height="50"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://icon2.cleanpng.com/20180805/wpb/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768b04383.539745841533527912722.jpg" alt="Scikit-Learn" width="50" height="50"/> </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50"/> </a> 
