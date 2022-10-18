@@ -19,8 +19,12 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 
 
 <h3> My Stats </h3>
-[![Teng's GitHub stats](https://github-readme-stats.vercel.app/api?username=TengHoo3)](https://github.com/anuraghazra/github-readme-stats)
-
+<table align="center">
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=TengHoo3&show_icons=true&theme=synthwave"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TengHoo3&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
+  </tr>   
+</table>
 
 
 <!---
