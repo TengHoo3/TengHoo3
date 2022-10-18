@@ -1,6 +1,6 @@
 <h1 align='center'> Teng Hoo </h1>
 
-Hi there! I am an AI/ML Engineer coming from a non-technical background with specific focus in Computer Vision and Data Science. I believe my experiences outside of the machine learning world are what brings the most value to machine learning. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
+Hi there! I am an AI/ML Engineer with specific focus in Computer Vision and Data Science. I believe my experiences outside of the machine learning world are what brings the most value to machine learning. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
 
 <h3> What do I currently do? </h3>
