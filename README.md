@@ -21,7 +21,7 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 <h3> My Stats </h3>
 <table align="center">
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=TengHoo3&show_icons=true&theme=synthwave"/></td>
+      <td><alt="Github Stats" img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=TengHoo3&show_icons=true&theme=synthwave"/></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TengHoo3&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
       <td><img width="380px" align="left" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td> 
   </tr>   
