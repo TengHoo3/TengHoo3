@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TengHoo3
+<h1> Hi, I’m @TengHoo3 </h1>
+
 - ✨ I am a Computer Vision and Deep Learning Expert
 - 👀 I’m interested in Deep Learning and Data Science
 - 🌱 I’m currently learning more on different areas of Deep Learning
