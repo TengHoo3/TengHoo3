@@ -26,7 +26,7 @@ Hi there! I am an AI/ML Engineer coming from a non-technical background with spe
 
 - GANs for image denoising and synthetic image generation
 - ML deployment on cloud services (AWS) using Fast and Flask API
-- Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients
+- Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients in various industries (Telco, Financial institutions, Medical, Social Media, Sports)
 
 
 <h3> Connect with me! </h3>
