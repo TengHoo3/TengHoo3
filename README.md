@@ -17,7 +17,12 @@ Hi there! Thanks for visiting my Github profile. I am an AI/ML Engineer coming f
 
 
 <h3> Upwork </h3>
-img width="380px" align="left" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"
+
+<table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TengHoo3&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>            
+  </tr>   
+</table>
 
 
 <h3> My Github Stats </h3>
