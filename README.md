@@ -18,7 +18,7 @@ Hi there! I am an AI/ML Engineer with specific focus in Computer Vision and Data
 
 <table>
   <tr>
-      <td><img width="450px" align="center" src="https://user-images.githubusercontent.com/67228311/196315576-6d19c1ff-2220-4ca8-a884-6dfa6d0490fa.png"/></td>            
+      <td><img width="450px" align="center" src="https://user-images.githubusercontent.com/67228311/198912781-03d40a8f-196e-48e4-837a-93697118baaa.png"/></td>            
   </tr>   
 </table>
 
