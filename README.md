@@ -42,7 +42,7 @@ Hi there! I am an AI/ML Engineer with specific focus in Computer Vision and Data
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" width="50" height="50"/> </a> 
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" width="50" height="50"/> </a> 
   <a href="https://streamlit.io/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" alt="Streamlit" width="50" height="50"/> </a> 
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="50" height="50"/> </a> 
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="Django" width="50" height="50"/> </a> 
 </p>
 
 <h3> Connect with me! </h3>
