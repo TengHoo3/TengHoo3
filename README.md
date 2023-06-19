@@ -49,11 +49,11 @@ Hi there! I am an AI/ML Engineer with specific focus in Computer Vision, GPT and
 
 <p align="left"> <a href="https://www.upwork.com/freelancers/tenghoo" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322720-b249f4f2-d4e7-4c1c-a291-2fde5f04a7be.png" alt="upwork" width="50" height="50"/> </a>  <a href="https://www.linkedin.com/in/teng-cheng-hoo-87b8bb10a/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196324209-5a429bd5-895b-4a16-b6b6-07c3f05638eb.png" alt="linkedin" width="50" height="50"/> </a>  <a href="https://www.instagram.com/tengalengaleng/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322712-1f4f91ff-230e-441d-8c04-1911a13de498.jpeg" alt="github" width="50" height="50"/> </a> <a href="https://github.com/TengHoo3" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322692-8a5cf00a-99bc-4a2b-99d4-08bbcb679a35.png" alt="github" width="50" height="50"/> </a> </p>
 
-
+<--
 <h3> My Github Stats </h3>
 <table align="center">
   <tr>
       <td><img  alt="Github Stats" width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=TengHoo3&show_icons=true&theme=synthwave"/></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TengHoo3&hide=css,html&count_private=true&theme=synthwave&layout=compact"/></td>      
   </tr>   
-</table>
+</table> -->
