@@ -5,7 +5,9 @@ Hi there! I am an AI/ML Engineer with specific focus in Computer Vision, GPT and
 
 <h3> What do I currently do? </h3>
 
-💻 I am currently an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
+💻 I am currently an Engineer with a focus in NLP, Generative AI, and Langchain
+
+💻 I also have experience as an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
 
 ♒ I am active on Upwork for exciting new opportunites on Machine Learning, Data Science, Web Development and MLOps / Deployment
 
