@@ -1,11 +1,12 @@
 <h1 align='center'> Teng Hoo </h1>
 
-Hi there! I am an AI/ML Engineer with specific focus in Computer Vision, GPT and Data Science. I believe my experiences outside of the machine learning world are what brings the most value to machine learning. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
+Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer Vision and Data Science. I believe my experiences outside of the machine learning world are what brings the most value to machine learning. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
 
 <h3> What do I currently do? </h3>
 
-💻 I am currently an Engineer with a focus in NLP, Generative AI, and Langchain. Previously, I was an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
+
+💻 I am currently an AI Engineer with a focus in NLP, Generative AI, and Langchain, building one of the leading Generative AI companies in Asia. Previously, I was an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
 
 ♒ I am active on Upwork for exciting new opportunites on Machine Learning, Data Science, Web Development and MLOps / Deployment
 
