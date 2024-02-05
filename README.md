@@ -30,7 +30,8 @@ Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer 
 - Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients in various industries (Telco, Financial institutions, Medical, Social Media, Sports)
 
 <h3> Technology Stack </h3>
-<p align="left"> 
+<p align="left"> ![Uploading Screenshot 2024-02-05 at 10.37.16 AM.png…]()
+
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="50" height="50"/> </a>  
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50" height="50"/> </a>  
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a> 
@@ -48,7 +49,8 @@ Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer 
 
 <h3> Connect with me! </h3>
 
-<p align="left"> <a href="https://www.upwork.com/freelancers/tenghoo" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322720-b249f4f2-d4e7-4c1c-a291-2fde5f04a7be.png" alt="upwork" width="50" height="50"/> </a>  <a href="https://www.linkedin.com/in/teng-cheng-hoo-87b8bb10a/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196324209-5a429bd5-895b-4a16-b6b6-07c3f05638eb.png" alt="linkedin" width="50" height="50"/> </a>  <a href="https://www.instagram.com/tengalengaleng/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322712-1f4f91ff-230e-441d-8c04-1911a13de498.jpeg" alt="github" width="50" height="50"/> </a> <a href="https://github.com/TengHoo3" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322692-8a5cf00a-99bc-4a2b-99d4-08bbcb679a35.png" alt="github" width="50" height="50"/> </a> </p>
+<p align="left"> <a href="https://www.upwork.com/freelancers/tenghoo" target="_blank"> <img src="![upwork](https://github.com/TengHoo3/TengHoo3/assets/67228311/4a212bc9-e66f-46cc-96b0-361567bf6a93)
+" alt="upwork" width="50" height="50"/> </a>  <a href="https://www.linkedin.com/in/teng-cheng-hoo-87b8bb10a/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196324209-5a429bd5-895b-4a16-b6b6-07c3f05638eb.png" alt="linkedin" width="50" height="50"/> </a>  <a href="https://www.instagram.com/tengalengaleng/" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322712-1f4f91ff-230e-441d-8c04-1911a13de498.jpeg" alt="github" width="50" height="50"/> </a> <a href="https://github.com/TengHoo3" target="_blank"> <img src="https://user-images.githubusercontent.com/67228311/196322692-8a5cf00a-99bc-4a2b-99d4-08bbcb679a35.png" alt="github" width="50" height="50"/> </a> </p>
 
 
 <h3> My Github Stats </h3>
