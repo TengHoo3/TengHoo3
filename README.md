@@ -19,7 +19,7 @@ Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer 
 
 <table>
   <tr>
-      <td><img width="450px" align="center" src="[https://user-images.githubusercontent.com/67228311/198912781-03d40a8f-196e-48e4-837a-93697118baaa.png](https://github.com/TengHoo3/TengHoo3/assets/67228311/bab76a0f-b896-404e-8963-cd3ee3a1279b)"/></td>            
+      <td><img width="450px" align="center" src="[https://github-production-user-asset-6210df.s3.amazonaws.com/67228311/302161704-bab76a0f-b896-404e-8963-cd3ee3a1279b.png](https://github.com/TengHoo3/TengHoo3/assets/67228311/bab76a0f-b896-404e-8963-cd3ee3a1279b)"/></td>            
   </tr>   
 </table>
 
