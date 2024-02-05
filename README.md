@@ -30,8 +30,7 @@ Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer 
 - Data Science pipeline including EDA, Data Visualisation and model training / deployment for multiple clients in various industries (Telco, Financial institutions, Medical, Social Media, Sports)
 
 <h3> Technology Stack </h3>
-<p align="left"> ![Uploading Screenshot 2024-02-05 at 10.37.16 AM.png…]()
-
+<p align="left">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="50" height="50"/> </a>  
   <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="50" height="50"/> </a>  
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a> 
