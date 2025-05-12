@@ -8,8 +8,6 @@ Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer 
 
 💻 I am currently an AI Engineer with a focus in NLP, Generative AI, and Langchain, building one of the leading Generative AI companies in Asia. Previously, I was an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
 
-♒ I am active on Upwork for exciting new opportunites on Machine Learning, Data Science, Web Development and MLOps / Deployment
-
 🏋️‍♂️ I am a gym enthusiast and enjoy sports / exercise outside of AI / Machine Learning
 
 💡 Always looking for interesting new projects to work on
