@@ -2,16 +2,13 @@
 
 Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer Vision and Data Science. I have around 4+ years of Experience in the AI space and love to connect with new peeps. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
+I am now embarking on a new journey to built Transcend - making PMs lives easier through building specs and prototypes to handover to engineers.
 
 <h3> What do I currently do? </h3>
 
-
-💻 I am currently an AI Engineer with a focus in NLP, Generative AI, and Langchain, building one of the leading Generative AI companies in Asia. Previously, I was an AI Engineer building an ID Fraud Detection model as part of the eKYC development pipeline, one of the first few fraud detection models in SEA
-
-🏋️‍♂️ I am a gym enthusiast and enjoy sports / exercise outside of AI / Machine Learning
+Building Transcend: Bullet-proof spec and visual prototypes by PMs, built for engineers. Zero Rework and minimizing Time-To-Ship.
 
 💡 Always looking for interesting new projects to work on
-
 
 <h3> Upwork (Freelance Platform) </h3>
 
