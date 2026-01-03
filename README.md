@@ -6,7 +6,7 @@ I am now embarking on a new journey to built Transcend - making PMs lives easier
 
 <h3> What do I currently do? </h3>
 
-Building Transcend: Bullet-proof spec and visual prototypes by PMs, built for engineers. Zero Rework and minimizing Time-To-Ship.
+🟢 Building Transcend: Bullet-proof spec and visual prototypes by PMs, built for engineers. Zero Rework and minimizing Time-To-Ship.
 
 💡 Always looking for interesting new projects to work on
 
