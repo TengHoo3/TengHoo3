@@ -1,4 +1,4 @@
-<h1 align='center'> Teng Hoo </h1>
+<img width="1024" height="1024" alt="hf-logo" src="https://github.com/user-attachments/assets/6f2198ed-7883-4e3b-b09a-f7eb9ceda371" /><h1 align='center'> Teng Hoo </h1>
 
 Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer Vision and Data Science. I have around 4+ years of Experience in the AI space and love to connect with new peeps. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
@@ -7,6 +7,7 @@ I am now embarking on a new journey to built Transcend - making PMs lives easier
 <h3> What do I currently do? </h3>
 
 🟢 Building Transcend: Bullet-proof spec and visual prototypes by PMs, built for engineers. Zero Rework and minimizing Time-To-Ship.
+<img width="724" height="724" alt="logo" src="https://github.com/user-attachments/assets/c96ebfc5-da3b-4297-b134-253e732af9f2" />
 
 💡 Always looking for interesting new projects to work on
 
@@ -33,8 +34,13 @@ I am now embarking on a new journey to built Transcend - making PMs lives easier
 <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="50" height="50"/> </a> 
 <a href="https://bitbucket.org/product" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" alt="bitbucket" width="50" height="50"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="50" height="50"/> </a> 
-<a href="https://huggingface.com" target="_blank"> <img src="https://cas-bridge.xethub.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20251209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251209T151950Z&X-Amz-Expires=3600&X-Amz-Signature=6b6216ab6ec011c1f9dea468227cee666b093df364e888867dd4db9047689dc5&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=64b8b7b30d8834cb3239ae81&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject&Expires=1765297190&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NTI5NzE5MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82M2QzZWVjODg1MTE4ZWRjMDQzOWJkOTgvYjViNmM5ZGY4N2M4YzQwNmUxZjg2MWQ1MzUzNzA1MGU3ZjBlZDdhYWVlNGY3NzY4ZmU5MDg3ZWU3ZGI1NDk5MioifV19&Signature=qInmE75cD94zymbr-xaehHrjrcmxwYaOxJKi1-yOkhMXHaUqLle9XpdmX2oqvVjBY2iO8R5L3YCPvLhVOkn1h8LQ1LBQG%7ETI%7E5Fq3zA3jeFynLWDJTIL%7E1p22ou5aKnke3xYznix4fAIuvqHB45vkQcPI417fwPAY5KkofYyqnluYa9jpETYZ6HJsGa1tXt9Xmz-FZHtriPRM8rUNbCvKF1%7EbLp1litXW60d63jafelwGah7wlIP0GDI16-tafRtzfVYv2VDmB8iF-hhfRpy-fr6zKOfiWoqeOF3f-rKAmsOPkNZ14W2LwqtivL0OIPpEhCAEpCzctugB1rjdTKUtA__&Key-Pair-Id=K2L8F4GPSG1IFC" alt="HuggingFace" width="50" height="50"/> </a> 
+<img width="1024" height="1024" alt="hf-logo" src="https://github.com/user-attachments/assets/53aae701-fa0f-4bbc-b7b6-3fa0f5426bfc" />
 <a href="https://unsloth.ai" target="_blank"> <img src="https://unsloth.ai/cgi/image/unsloth_sticker_no_shadow_ldN4V4iydw00qSIIWDCUv.png?width=230&quality=100&format=auto" alt="Unsloth" width="50" height="50"/> </a> 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/> </a> 
 </p>
+
 <h3> Connect with me! </h3>
+
+**LinkedIn**: [teng-cheng-hoo](https://www.linkedin.com/in/teng-cheng-hoo-87b8bb10a/)  
+**Transcend**: [gettranscendai.com](https://gettranscendai.com/)
+
