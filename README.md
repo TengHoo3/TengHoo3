@@ -9,7 +9,7 @@ I am now embarking on a new journey to built Transcend - making PMs lives easier
 <p align="center">
   <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/c96ebfc5-da3b-4297-b134-253e732af9f2" />
 </p>
-Building Transcend: Bullet-proof spec and visual prototypes by PMs, built for engineers. Zero Rework and minimizing Time-To-Ship.
+Building Argus: your voice assistant that transforms conversations into live UI mockups and specs in real-time.
 
 <h3> Upwork (Freelance Platform) </h3>
 
