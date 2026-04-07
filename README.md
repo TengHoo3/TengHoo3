@@ -2,15 +2,6 @@
 
 Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer Vision and Data Science. I have around 5+ years of Experience in the AI space and love to connect with new peeps. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
-I am now embarking on a new journey to built Transcend - making PMs lives easier through building specs and prototypes to handover to engineers.
-
-<h3> What do I currently do? </h3>
-
-<p align="center">
-  <img width="100" height="100" alt="logo" src="https://github.com/user-attachments/assets/c96ebfc5-da3b-4297-b134-253e732af9f2" />
-</p>
-Building Argus: your voice assistant that transforms conversations into live UI mockups and specs in real-time.
-
 <h3> Upwork (Freelance Platform) </h3>
 
 <table>
