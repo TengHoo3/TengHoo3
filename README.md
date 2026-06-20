@@ -2,16 +2,6 @@
 
 Hi there! I am an AI/ML Engineer with specific focus in Generative AI, Computer Vision and Data Science. I have around 5+ years of Experience in the AI space and love to connect with new peeps. Reach out to me for any discussions about Machine Learning, Deep Learning and Data Science!
 
-<h3> Upwork (Freelance Platform) </h3>
-
-<table>
-  <tr>
-      <td><img width="450px" align="center" src="https://github.com/TengHoo3/TengHoo3/assets/67228311/84c23ab4-6f6f-4d18-b533-4493c01b289d"/></td>            
-  </tr>   
-</table>
-
-[My Profile](https://www.upwork.com/freelancers/tenghoo)
-
 - Finetuning open-source models such as Mistral, Llama, Qwen, and more using qLoRA
 - GANs for image denoising and synthetic image generation
 - ML deployment on cloud services (AWS) using Fast and Flask API
